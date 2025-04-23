@@ -9,8 +9,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_TOKEN = 'YOUR_API_TOKEN'
-admin_user_ids = ['YOUR_ADMIN_USER_IDS']
+API_TOKEN = '7588162284:AAH1Dy0A_BQW6Pc6Pa52tOxeo7lIwCt9ILo'
+admin_user_ids = ['6366780616']
 
 user_access = {}
 abusive_users = {}
